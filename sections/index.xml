@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Vaishnavi Surendra</title>
+    <link>/sections/</link>
+    <description>Recent content in Sections on Vaishnavi Surendra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/sections/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/aboutme/</guid>
+      <description>I&amp;rsquo;m a postdoctoral researcher at Precision Development (PxD). My research focuses on rural markets for labor, credit, and information; the role of gender in these markets; and farmer adaptation to climate change through these markets.
+I received a PhD from the Department of Agricultural and Resource Economics at UC Berkeley in August, 2020, and was a postdoctoral scholar in the department between 2020 and 2021.
+Curriculum Vitae (Updated August 2023)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/contact/</guid>
+      <description>Email: vaishnavi.s@gmail.com
+Google Scholar | ORCiD | Twitter | LinkedIn</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/sections/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/other/</guid>
+      <description>Website: Website code from Gautam Rao&amp;rsquo;s github repository.</description>
+    </item>
+    
+  </channel>
+</rss>
